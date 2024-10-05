@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840879353544",
+    "project_id": "sunrise-service-centre",
+    "storage_bucket": "sunrise-service-centre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840879353544:android:174195dc6701c6310a3ffd",
+        "android_client_info": {
+          "package_name": "com.example.ssc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEa5SX0LDCPGeTBATIYDhHUjMBOtVr-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
